@@ -11,47 +11,47 @@
 "Activation:" = "Aktivacija:";
 
 "Control:" = "Nadzor:";
-"Hide on ESC" = "Skrij ob prtisku tipke ESC";
-"Pin Visor" = "Zakleni Visor";
+"Hide on ESC" = "Skrij s tipko ESC";
+"Pin Visor" = "Pripni Visor";
 
 "Animation:" = "Animacije:";
-"Fade Window" = "Okno, ki zbledi";
-"Slide Window" = "Drsno okno";
+"Fade Window" = "Okno zbledi";
+"Slide Window" = "Okno drsi";
 
 "Screen:" = "Zaslon:";
 "Show on all Spaces" = "Prikaži na vseh namizjih";
-"Show on top of the Dock" = "Prikaži nad Dock-om";
-"Free Form Window" = "Premično okno";
+"Show on top of the Dock" = "Prikaži nad vrstico z aplikacijami";
+"Free Form Window" = "Poljubno okno";
 
 /* asepsis page */
 "Asepsis Feature" = "Funkcija Asepsis";
-"prevents .DS_Store files to be created in local folders" = "prepreči ustvarjanje datotek DS_Store v lokalnih mapah";
-".DS_Store files will be redirected into" = "datoteke .DS_Store bodo preusmerjene v";
-"this folder should be set as writable for all users of TotalFinder" = "ta mapa naj bi imela nastavljene pravice za pisanje vseh uporabnikov";
+"prevents .DS_Store files to be created in local folders" = "prepreči shranjevanje datotek .DS_Store v lokalnih mapah";
+".DS_Store files will be redirected into" = ".DS_Store datoteke bodo preusmerjene v";
+"this folder should be set as writable for all users of TotalFinder" = "ta mapa mora imeti nastavljene pravice za pisanje za vse uporabnike TotalFinder";
 "Launch Migration Assistant" = "Poženi pomočnika za migracijo";
-"TotalFinder.kext status" = "TotalFinder.kext stanje";
-"Unable to connect" = "Povezava ni bila uspešna";
+"TotalFinder.kext status" = "TotalFinder.kext status";
+"Unable to connect" = "Neuspešna povezava";
 "Advanced:" = "Napredno:";
-"Don't write .DS_Store to Network" = "Ne piši DS_Store na mrežne diske";
+"Don't write .DS_Store to Network" = "Ne zapisuj .DS_Store datotek na mrežne diske";
 
 /* tweaks page */
 "Reset TotalFinder to defaults" = "Ponastavi TotalFinder";
 
 "File Browser:" = "Brskalnik datotek:";
-"Show System Files" = "Prikaži skrite datoteke";
+"Show System Files" = "Prikaži sistemske datoteke";
 "Folders on Top" = "Mape na vrhu";
 "Always Maximize" = "Vedno povečaj";
 "Toggle Dual Mode" = "Preklopi v dvojni način";
 
-"Menu and Dock:" = "Menijska vrstica in Dock:";
+"Menu and Dock:" = "Meni in Dock:";
 "Hide icon in Menu Bar" = "Skrij ikono v menijski vrstici";
-"Keep original Dock icon" = "Ohrani izvirno Finder ikono";
+"Keep original Dock icon" = "Ohrani izvirno Dock ikono";
 
-"Experimental:" = "Eksperimentalno:";
+"Experimental:" = "Poskusno:";
 "Freelance Windows" = "Premična okna";
-"Use narrow Tabs Bar" = "Uporabi ozko vrstico";
-"Show CutPaste buttons in Context Menus" = "Izreži/Prilepi gumbi kontekstualnega menija";
-"Allow path copying from Context Menus" = "Kopiranje poti iz kontekstualnega menija";
+"Use narrow Tabs Bar" = "Uporabi ozko vrstico z zavihki";
+"Show CutPaste buttons in Context Menus" = "Izreži/Prilepi gumbi v kontekst meniju";
+"Allow path copying from Context Menus" = "Kopiranje poti iz kontekst menija";
 
 /* about page */
 "Check for updates…" = "Preveri za posodobitve…";
@@ -59,15 +59,15 @@
 /* registration */
 "TotalFinder Registration" = "TotalFinder registracija";
 "Registration" = "Registracija";
-"Please enter your license details from the email we have sent you:" = "Prosimo, da vpišete podatke o licenci, ki smo vam jih poslali na elektronski naslov:";
-"Buy TotalFinder Now" = "Kupite TotalFinder zdaj";
+"Please enter your license details from the email we have sent you:" = "Vpišete podatke o licenci, ki smo vam jih poslali na email naslov:";
+"Buy TotalFinder Now" = "Kupi TotalFinder";
 "Register" = "Registriraj";
 "Thanks for registering!" = "Hvala za registracijo!";
 "This TotalFinder copy is licensed to:" = "TotalFinder je licenciran na:";
 "Close" = "Zapri";
 "Change License" = "Spremeni licenco";
 "Back" = "Nazaj";
-"Invalid license code" = "Nepravilna licenčna koda";
+"Invalid license code" = "Neveljavna licenčna koda";
 "Please go back and try again." = "Pojdite nazaj in poskusite ponovno.";
-"To purchase a license for TotalFinder, please visit BinaryAge web store." = "Če želite kupiti TotalFinder licenco, obiščite spletno trgovino BinaryAge.";
-"Thank you for using TotalFinder!" = "Hvala za uporabo aplikacije TotalFinder!";
+"To purchase a license for TotalFinder, please visit BinaryAge web store." = "Za nakup licence za TotalFinder, obiščite spletno trgovino BinaryAge.";
+"Thank you for using TotalFinder!" = "Zahvaljujemo se vam za uporabo TotalFinder!";
